@@ -1,0 +1,29 @@
+li.onceden a {line-height: 14px !important; padding-top: 4px !important; padding-bottom: 4px !important;}
+li.onceden a:hover {background: #42599e; color: #ffffff;}
+.eskiz-ekran {position:absolute; z-index: 99999; width: 1px; height: 1px; overflow: hidden; visibility: hidden;}
+.sag-text {text-align: right;}
+.son-engellenen {margin:12px !important; }
+
+
+.sakla {display:none !important;}
+._5pcb._4-c .mtl.pam.uiBoxGray.goster {display:block;}
+#pagelet_group_pending ._5pcb._4-c .mtl.pam.uiBoxGray {display:none!important;}
+.ifblocked {font-size: 10px; color: #595959}
+
+.yeni {background:#fff8e1;}
+.yeni.member40 {background:#ffe586;}
+.yeni.member100, .member200 {background:#ffe586 !important; }
+.pasif, .pasif.yeni, .pasif.yeni.member40, .pasif.yeni.member100, .pasif.yeni.member200, .pasif.member40, .pasif.member100, .pasif.member200{background:#ccc !important;}
+
+.member100 {background:#fff8e1;}
+
+li.yeni .clearfix._8u._42ef ul.uiList.mts._2rct._4kg li:nth-child(1)  {color:red;}
+
+li.member200 .clearfix._8u._42ef ul.uiList.mts._2rct._4kg li:nth-child(2)  {color:red;}
+li.member100 .clearfix._8u._42ef ul.uiList.mts._2rct._4kg li:nth-child(2)  {color:red;}
+li.member40.yeni .clearfix._8u._42ef ul.uiList.mts._2rct._4kg li:nth-child(2)  {color:red;}
+
+#pagelet_pending_queue ._5pcb._4-c .mtl.pam.uiBoxGray {display:none!important;}
+
+
+
