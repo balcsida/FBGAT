@@ -2,12 +2,12 @@
    "content_scripts": [ {
       "all_frames": true,
       "css": [ "style.css" ],
-      "matches": [ "https://www.facebook.com/*", "http://www.facebook.com/*", "https://apps.facebook.com/*", "http://apps.facebook.com/*" ],
+      "matches": [ "https://www.facebook.com/groups/*" ],
       "run_at": "document_start"
    }, {
       "all_frames": true,
       "js": [ "jquery.js", "end.js" ],
-      "matches": [ "https://www.facebook.com/*", "http://www.facebook.com/*", "https://apps.facebook.com/*", "http://apps.facebook.com/*" ],
+      "matches": [ "https://www.facebook.com/groups/*" ],
       "run_at": "document_end"
    } ],
    "description": "A tool makes things easy",
