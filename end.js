@@ -12,7 +12,7 @@ $(function() {
 
 	// Add "Block" link to comments
 	$(document).on("mouseover", "html body:has(.groupJumpLayout:has(.groupsEditDescriptionArea ._4t38)) .hazir.UFIRow:not(.oki)", function() {
-		var grupid = $("input[name='profile_id']").attr("value");
+		var grupid = document.getElementsByName('profile_id')[0].value;
 		var kimo = $(this).find('a.UFIImageBlockImage').html();
 		var cumle = $(this).find('a.UFIImageBlockImage').attr("data-hovercard");
 		var ilk = "id=";
