@@ -16,6 +16,7 @@
    },
    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAx++EPGhocKsfNgc6OZp9U9MLBo2xIiLh6gh57nMxgK8hvIZjdUV7Um9oEjZlJBgmjTDEYQkWg/iLf+iMMI5JkjQHVFLVySU02Wb/sr3c6MxIp4+OALiNTHxZBNwu6iPO+OIXP7jz3A7aBce3qihhXOh270yoJc30kVfuhI8M/2znxsxxwrW4k5fW9H8o1+LmmJ//v1ZRE3rARNYMIytaz6Nj/rak0fT3XcSxhwJUkO/JLipBUmYDC6bOqzvqAC4AygLH0gLFAlA6ddmz5CFh5EYmb+cbHmfFK+ura9+Cjl6hU1gPKBKTIVpE9RMMBFTakHBiFziWt7F8RCz3cQvXiwIDAQAB",
    "manifest_version": 2,
+   "author": "balcsida",
    "name": "Facebook Group Admin Toolkit",
    "permissions": [ "tabs", "https://www.facebook.com/*", "http://www.facebook.com/*", "https://apps.facebook.com/*", "http://apps.facebook.com/*" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
