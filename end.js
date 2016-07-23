@@ -1,6 +1,4 @@
 $(function() {
-	$("body").prepend('<div class="eskiz-ekran"></div>');
-	//BAŞLIYORUZ ///////////////////////////////////////
 
 	//Recently Blocked Members ///////////////////////////////////////
 	$(document).on("mouseover", "html body:has(.groupJumpLayout:has(.groupsEditDescriptionArea ._4t38))", function() {
