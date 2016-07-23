@@ -1,6 +1,5 @@
 li.onceden a {line-height: 14px !important; padding-top: 4px !important; padding-bottom: 4px !important;}
 li.onceden a:hover {background: #42599e; color: #ffffff;}
-.eskiz-ekran {position:absolute; z-index: 99999; width: 1px; height: 1px; overflow: hidden; visibility: hidden;}
 .sag-text {text-align: right;}
 .son-engellenen {margin:12px !important; }
 
