@@ -19,9 +19,8 @@ $(function() {
 		var son = "&";
 		var uyeid = cumle.match(ilk + "(.*)" + son)[1];
 
-		$(this).find('a.uiLinkSubtle').parent().prepend("<span class='tam engel'><a href='/ajax/groups/members/remove.php?group_id=" + grupid + "&amp;uid=" + uyeid + "' rel='dialog-post' role='menuitem' tabindex='-1'><span><span> Block </span></span></a> - </span>");
-		$(this).addClass("oki");
-		$(this).find(".yrm.engel").remove();
+		$(this).find('a.uiLinkSubtle').parent().prepend(' <span class="tam engel"><a href="/ajax/groups/members/remove.php?group_id=' + grupid + '&amp;uid=' + uyeid + '" rel="dialog-post" role="menuitem" tabindex="-1">Block</a></span> ');
+	}); 
 
 
 	//BEGENİDEN ENGELLEME 
